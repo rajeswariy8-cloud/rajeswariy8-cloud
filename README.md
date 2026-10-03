@@ -10,7 +10,7 @@ Engineering and hardware - Basics of mechanics, circuitry, and  building skills
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Mining mission to send a design to NASA and creating a robot for VEX IQ competition
+- 🔭 I’m currently working on ... Mining mission to send a design that will mine asteroid to NASA and creating a robot for VEX IQ competition
 - 🌱 I’m currently learning ... PyTorch, Chemistry, reviewing math, and Logic Gates
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...Creating a roadmap for my life
