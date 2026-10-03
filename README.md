@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 -->
 Academic Targets: AP Physics, C++, Calculus, Linear Algebra, and business.
 Goal: Apply knowledge of programming, hardware, and Artificial Intelligence to create real-world robots that help the world.
+
+Repositories:
+https://github.com/rajeswariy8-cloud/python
